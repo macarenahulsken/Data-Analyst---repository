@@ -42,7 +42,7 @@ Analytical Framework: SCQA Model (Situation, Complication, Question, Answer)
 
 ### 1. General Overview
 
-assets/dashboard1_andes
+![dashboard general](/assets/dashboard1_andes)
 
 * **Situation:** 2024 closed with a total revenue of $2.86M and a profit margin of 35.13%, with Peru leading revenue generation ($1.14M).
 * **Complication:** In 2025, the landscape contracted: revenue dropped to $2.67M (35.07% margin), representing a Year-over-Year (YoY) decline of -6.80%.
@@ -51,7 +51,7 @@ assets/dashboard1_andes
 
 ### 2. Detailed Diagnostic
 
-assets/dashboard2_andes_detail
+![dashboard_detail](/assets/dashboard2_andes_detail)
 
 * **Situation:** In 2025, the Sports and Home categories were the pillars of the business, jointly contributing approximately $1.40M. Seasonally, strong sales volume was driven during the summer months.
 * **Complication:** There are three critical focus areas: 
